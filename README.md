@@ -3,6 +3,7 @@
 
 Platform: python,Scikit_learn
 
+Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
 
 Accuracy for Logistic Regression: 58%
 
